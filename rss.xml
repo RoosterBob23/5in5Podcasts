@@ -1,34 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5in5 Transportation and Logistics</title>
+    <link>https:https://sites.google.com/view/5in5-podcast/home</link>
+    <description>
+         Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.
+    </description>
+    <language>en</language>
 
-    <!-- Episode Item -->
-    <item>
-      <guid isPermaLink="false"> 1z5tCni0vegL4YpDV5s9eesMX71dW1xaM</guid>
-      <title>Top Stories for 2025-10-23</title>
-      <description><
-        Top Transportation and Logistics Stories for Thu, 23 Oct 2025 14:01:48 GMT
-        
-        Links:
-        https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-freight-rates-capacity/718465/
-       https://www.ttnews.com/articles/appeals-court-rejects-challenge-california-ab5-upholding-independent-contractor-law-truckers
-       https://www.freightwaves.com/news/us-port-volumes-show-resilience-despite-red-sea-panama-canal-disruptions
-       https://www.supplychaindive.com/news/ai-shippers-contracts-risk-opportunities-machine-learning-negotiation/718335/
-       https://www.supplychaindive.com/news/hapag-lloyd-exit-the-alliance-maersk-vessel-sharing-agreement-ocean/705470/
+    <!-- iTunes-specific metadata -->
+    <itunes:author>5in5 Podcast</itunes:author>
+    <itunes:summary>
+         Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Pagliocca</itunes:name>
+      <itunes:email>spagliocca@gmail.com</itunes:email>
+    </itunes:owner>
 
-        Duration: 2:50
-        Published: October 23, 2025
-      >
-      </description>
-      
-      <pubDate>Thu, 23 Oct 2025 14:01:48 GMT</pubDate>
-      
-      <itunes:duration>2:50</itunes:duration>
-      <enclosure url="https://drive.google.com/file/d/1z5tCni0vegL4YpDV5s9eesMX71dW1xaM/view?usp=drivesdk/Episode 2025-10-21.mp3" length="681216" type="audio/mpeg"/>
-     
-      <itunes:explicit>no</itunes:explicit>
+    <!-- Updated image -->
+    <itunes:image href="https://drive.google.com/file/d/1wr7YYQ-G8z-TERH1Lwhz5sRdv8EyOpWi/view?usp=drive_link" />
 
-    </item>
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/n8n/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+
+
+<item>
+  <title>Episode 1 - 10/21/2025</title>
+  <description>
+       Top Transportation and Logistics Stories for 10/21/2025
+  </description>
+  <pubDate>Sun, 27 Jul 2025 21:01:17 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=112HCTM-uHxZDyPieQyGbSih0w3bW2LJw" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753650077031</guid>
+</item>
+
+
+</channel>
 </rss>
