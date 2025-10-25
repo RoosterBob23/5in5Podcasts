@@ -28,22 +28,8 @@
 
     <!-- Example item (episode) -->
 
-
 <item>
-  <title>Episode 1 - 10/21/2025</title>
-  <description>
-       Top Transportation and Logistics Stories for 10/21/2025
-  </description>
-  <pubDate>Sun, 27 Jul 2025 21:01:17 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=112HCTM-uHxZDyPieQyGbSih0w3bW2LJw" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1753650077031</guid>
-</item>
-
-
-
-
-<item>
-  <title>Episode 2 - Fri Oct 24 2025</title>
+  <title>Episode 1 - Fri Oct 24 2025</title>
   <description>Top Transportation and Logistics Stories for Fri Oct 24 2025
  Links:
 https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-freight-rates-capacity/718465/
@@ -57,19 +43,6 @@ https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-fre
 </item>
 
 
-<item>
-  <title>Episode 3 - Fri Oct 24 2025</title>
-  <description>Top Transportation and Logistics Stories for Fri Oct 24 2025
-Here are links for the top stories mentioned:
-https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-freight-rates-capacity/718465/
-   https://www.ttnews.com/articles/appeals-court-rejects-challenge-california-ab5-upholding-independent-contractor-law-truckers
-   https://www.freightwaves.com/news/us-port-volumes-show-resilience-despite-red-sea-panama-canal-disruptions
-   https://www.supplychaindive.com/news/ai-shippers-contracts-risk-opportunities-machine-learning-negotiation/718335/
-   https://www.supplychaindive.com/news/hapag-lloyd-exit-the-alliance-maersk-vessel-sharing-agreement-ocean/705470/</description>
-  <pubDate>Sat, 25 Oct 2025 01:05:35 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AlsxvSkBFSXpZZpBVtn80REehIGPbIMb" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1761354335647</guid>
-</item>
 
 </channel>
 </rss>
