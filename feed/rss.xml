@@ -19,7 +19,7 @@
            <itunes:name>Pagliocca</itunes:name>
            <itunes:email>spagliocca@gmail.com</itunes:email>
           </itunes:owner>
-          <itunes:image href="https://drive.google.com/file/d/1wr7YYQ-G8z-TERH1Lwhz5sRdv8EyOpWi/view?usp=drive_link" />
+          <itunes:category text="Business"/>
           <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Transportation/main/feed/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->
           <item>
