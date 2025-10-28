@@ -22,75 +22,9 @@
           <itunes:category text="Business"/>
           <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->
-          <item>
-               <title>Episode 1 - Fri Oct 24 2025</title>
-                 <description>Top Transportation and Logistics Stories for Fri Oct 24 2025
-                Links:
-                    https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-freight-rates-capacity/718465/
-                  https://www.ttnews.com/articles/appeals-court-rejects-challenge-california-ab5-upholding-independent-contractor-law-truckers
-                  https://www.freightwaves.com/news/us-port-volumes-show-resilience-despite-red-sea-panama-canal-disruptions
-                  https://www.supplychaindive.com/news/ai-shippers-contracts-risk-opportunities-machine-learning-negotiation/718335/
-                  https://www.supplychaindive.com/news/hapag-lloyd-exit-the-alliance-maersk-vessel-sharing-agreement-ocean/705470/</description>
-               <pubDate>Fri, 24 Oct 2025 21:20:07 GMT</pubDate>
-               <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XaMNaswT1HQ4SaIrBDexiG-2F0EKHpb-" length="1234567" type="audio/mpeg" />
-               <guid isPermaLink="false">1761340807707</guid>
-          </item>
-     
+          
 <item>
-  <title>Episode 2 - Mon Oct 27 2025</title>
-  <description>Top Transportation and Logistics Stories for Mon Oct 27 2025
-Here are the links for the stories:
-https://www.supplychaindive.com/news/trucking-conditions-index-rebound-april-freight-rates-capacity/718465/
-   https://www.ttnews.com/articles/appeals-court-rejects-challenge-california-ab5-upholding-independent-contractor-law-truckers
-   https://www.freightwaves.com/news/us-port-volumes-show-resilience-despite-red-sea-panama-canal-disruptions
-   https://www.supplychaindive.com/news/ai-shippers-contracts-risk-opportunities-machine-learning-negotiation/718335/
-   https://www.supplychaindive.com/news/hapag-lloyd-exit-the-alliance-maersk-vessel-sharing-agreement-ocean/705470/</description>
-  <pubDate>Mon, 27 Oct 2025 14:44:49 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1piw4q7zJYhmRafq523_ycId2O-_o4XR4" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1761576289698</guid>
-</item>
-
-
-<item>
-  <title>Episode 3 - Tue Oct 28 2025</title>
-  <description>Top Transportation and Logistics Stories for Tue Oct 28 2025
-Here are the links for the stories:
-That's your rapid-fire industry update for today.For more details, you can find the original articles at:https://www.freightwaves.com/news/freight-volumes-surge-spot-rates-rise-after-memorial-dayhttps://www.freightwaves.com/news/rail-intermodal-volumes-climb-after-memorial-dayhttps://www.supplychaindive.com/news/supply-chain-visibility-platforms-technology-logistics-challenges/717466/https://www.freightwaves.com/news/amazon-air-scales-back-growth-planshttps://www.supplychaindive.com/news/ai-analytics-logistics-improve-cut-costs/717464/</description>
-  <pubDate>Tue, 28 Oct 2025 11:01:50 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASSSwC6nYb6Jy5e6ag82JSKo8M8knclH" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1761649310401</guid>
-</item>
-
-
-<item>
-  <title>Episode 4 - Tue Oct 28 2025</title>
-  <description>Top Transportation and Logistics Stories for Tue Oct 28 2025
-Here are the links for the stories:
-...Hyperlinks:...1.  https://www.ttnews.com/articles/ups-stuns-wall-street-strong-profit-and-34000-job-cuts2.  https://www.ttnews.com/articles/delhaize-usa-open-860m-east-coast-distribution-center3.  https://www.ttnews.com/articles/uber-invest-hong-kong-listings-pony-ai-weride4.  https://www.ttnews.com/articles/atas-spear-hails-rollback-ev-mandates-other-trucking-wins5.  https://www.ttnews.com/articles/amazon-lay-30000-cost-pressures-mount</description>
-  <pubDate>Tue, 28 Oct 2025 20:27:18 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_iPchWs7QufsATgRKqyFqOkxXDF8SEC1" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1761683238707</guid>
-</item>
-
-
-<item>
-  <title>Episode 5 - Tue Oct 28 2025</title>
-  <description>Top Transportation and Logistics Stories for Tue Oct 28 2025
-Here are the links for the stories:
-Hyperlinks:
-1.  https://www.ttnews.com/articles/ups-stuns-wall-street-strong-profit-and-34000-job-cuts
-2.  https://www.ttnews.com/articles/delhaize-usa-open-860m-east-coast-distribution-center
-3.  https://www.ttnews.com/articles/uber-invest-hong-kong-listings-pony-ai-weride
-4.  https://www.ttnews.com/articles/atas-spear-hails-rollback-ev-mandates-other-trucking-wins
-5.  https://www.ttnews.com/articles/amazon-lay-30000-cost-pressures-mount</description>
-  <pubDate>Tue, 28 Oct 2025 20:42:47 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y1gviFbAAnrfCJDFur0dBOiqCkBMWlY8" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1761684167666</guid>
-</item>
-
-
-<item>
-  <title>Episode 6 - Tue Oct 28 2025</title>
+  <title>Episode 1 - Tue Oct 28 2025</title>
   <description>Top Transportation and Logistics Stories for Tue Oct 28 2025
 Here are the links for the stories:
 1.  https://www.ttnews.com/articles/ups-stuns-wall-street-strong-profit-and-34000-job-cuts
