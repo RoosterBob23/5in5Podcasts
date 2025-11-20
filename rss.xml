@@ -14,7 +14,7 @@
           Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.
           </itunes:summary>
           <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/TransportationandLogistics/main/logo.jpg" />
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>False</itunes:explicit>
           <itunes:owner>
            <itunes:name>Pagliocca</itunes:name>
            <itunes:email>spagliocca@gmail.com</itunes:email>
