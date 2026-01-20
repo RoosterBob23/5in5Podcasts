@@ -10,7 +10,7 @@
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>The fastest way to get your headlines</itunes:subtitle>
           <itunes:author>5in5 Podcast</itunes:author>
-          <itunes:summary>greetingFragment</itunes:summary>
+          <itunes:summary>Welcome to the five in five Catholic News podcast where you will hear the top five stories regarding the Catholic Church in about five minutes.</itunes:summary>
           <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/logo.jpg" />
           <itunes:explicit>False</itunes:explicit>
           <itunes:owner>
@@ -18,7 +18,7 @@
            <itunes:email>spagliocca@gmail.com</itunes:email>
           </itunes:owner>
           <itunes:category text="Business"/>
-          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/gitHubFolder/rss.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->        
 <item>
   <title>Episode 0</title>
