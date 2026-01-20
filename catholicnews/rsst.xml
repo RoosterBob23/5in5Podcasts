@@ -5,129 +5,27 @@
      <channel>
           <title>5in5 Catholic News</title>
           <link>https:https://sites.google.com/view/5in5-podcast/home</link>
-          <description>Welcome to the 5in5 Catholic News podcast where you will get the top five headlines in five minutes or less.</description>
+          <description>greetingFragment</description>
           <language>en</language>
           <itunes:type>episodic</itunes:type>
           <itunes:subtitle>The fastest way to get your headlines</itunes:subtitle>
           <itunes:author>5in5 Podcast</itunes:author>
-          <itunes:summary>
-          Welcome to the 5in5 Catholic News podcast where you will get the top five headlines in five minutes or less.
-          </itunes:summary>
+          <itunes:summary>greetingFragment</itunes:summary>
           <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/logo.jpg" />
           <itunes:explicit>False</itunes:explicit>
           <itunes:owner>
            <itunes:name>Pagliocca</itunes:name>
            <itunes:email>spagliocca@gmail.com</itunes:email>
           </itunes:owner>
-          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/rss.xml" rel="self" type="application/rss+xml" />
-          <!-- Episodes -->
-          
-
+          <itunes:category text="Business"/>
+          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/gitHubFolder/rss.xml" rel="self" type="application/rss+xml" />
+          <!-- Episodes -->        
 <item>
-  <title>Episode 1 - Sat Nov 29 2025</title>
-  <description>Top Stories for Sat Nov 29 2025
-Here are the links for the stories:
-Hyperlinks
-1. https://www.catholicnewsagency.com/news/269116/pope-leo-xiv-and-bartholomew-i-deeply-alarmed-by-global-tensions
-2. https://www.vaticannews.va/en/pope/news/2025/11/pope-leo-xiv-mass-turkey-catholic-ecumenical-interreligious-unity.html
-3. https://www.vaticannews.va/en/pope/news/2025/11/pope-leo-xiv-visits-emblematic-turkish-mosque-sign-fraternity.html
-4. https://www.vaticannews.va/en/pope/news/2025/11/pope-leo-xiv-marks-nicaea-anniversary-urges-christians-overcome-divisions.html
-5. https://www.catholicnewsagency.com/news/269117/pope-leo-xiv-appoints-2-new-archbishops-for-western-canada-dioceses</description>
-  <pubDate>Sun, 30 Nov 2025 02:55:39 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A9aM1QbeXAqdzXvrrfmS__GJ04xeD2SJ" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1764471339208</guid>
-</item>
-
-
-<item>
-  <title>Episode 2 - Sat Jan 03 2026</title>
-  <description>Top Stories for Sat Jan 03 2026
-Here are the links for the stories:
-1. https://www.catholicnewsagency.com/news/270428/vatican-newspaper-leads-with-us-attack-on-venezuela
-2. https://www.ewtnnews.com/vatican/news/pope-leo-xiv-surprises-seek26-with-message-what-do-you-seek
-3. https://www.catholicnewsagency.com/news/270424/key-dates-on-the-agenda-of-the-pope-and-vatican-for-2026
-4. https://www.catholicculture.org/news/headlines/index.cfm?storyid=60143
-5. https://www.catholicnewsagency.com/news/270426/historic-dutch-former-catholic-church-destroyed-by-fire-on-new-years-day</description>
-  <pubDate>Sun, 04 Jan 2026 04:15:07 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1laKvhTiGbB-5oy4uyLXf6gK3f5etQ4Ru" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767500107442</guid>
-</item>
-
-
-<item>
-  <title>Episode 3 - Sun Jan 04 2026</title>
-  <description>Top Stories for Sun Jan 04 2026
-Here are the links for the stories:
-1. https://www.catholicnewsagency.com/news/256569/pope-leo-xiv-surprises-seek26-attendees-with-message-what-do-you-seek
-2. https://www.catholicnewsagency.com/news/256565/key-dates-on-the-agenda-of-the-pope-and-vatican-for-2026
-3. https://www.catholicculture.org/news/headlines/index.cfm?storyid=59972
-4. https://www.catholicnewsagency.com/news/256575/venezuelan-bishop-calls-for-maintaining-serenity-peace-and-above-all-a-climate-of-prayer
-5. https://www.catholicculture.org/news/headlines/index.cfm?storyid=59970</description>
-  <pubDate>Sun, 04 Jan 2026 08:01:48 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kHwkt1VIHQM8ArfbYc6m-ZR8W6lnhM6I" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767513708376</guid>
-</item>
-
-
-<item>
-  <title>Episode 4 - Mon Jan 05 2026</title>
-  <description>Top Stories for Mon Jan 05 2026
-Here are the links for the stories:
-1. https://www.catholicnewsagency.com/news/256428/pope-says-christian-hope-doesnt-depend-on-human-calculations
-2. https://www.ncronline.org/news/jan-4-2026-epiphany-lord
-3. https://www.religionnews.com/2026/01/05/religion-news-5-january-2026/
-4. https://www.regnumchristi.org/en/january-5-2026-jesus-empowers-and-heals/
-5. https://www.catholicstandard.org/scripture-reflection-for-jan-4-2026-epiphany-of-the-lord/</description>
-  <pubDate>Mon, 05 Jan 2026 08:02:01 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=17PuovgoyFR-FnR3ROiav7smNBZwb7Lxo" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767600121767</guid>
-</item>
-
-
-<item>
-  <title>Episode 5 - Tue Jan 06 2026</title>
-  <description>Top Stories for Tue Jan 06 2026
-Here are the links for the stories:
-1. https://www.usccb.org/news/2026/vatican-sees-record-number-visitors-during-jubilee-year-officials-say
-2. https://www.catholicnewsagency.com/news/256334/nearly-2-million-people-to-march-in-poland-for-three-kings-procession
-3. https://www.ewtnnews.com/2026/01/05/pope-leo-xiv-calls-for-respect-for-venezuelan-sovereignty-after-us-capture-of-maduro/
-4. https://www.detroitcatholic.com/news/sisters-who-manage-school-of-kidnapped-nigerian-children-your-compassion-became-a-lifeline
-5. https://www.texascatholic.com/news/be-open-to-what-the-lord-has-in-store-for-you-pope-leo-tells-seek-2026-attendees</description>
-  <pubDate>Tue, 06 Jan 2026 08:02:36 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w3OggvExSils9SDIt9HS3SoDd3EhoWC2" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767686556292</guid>
-</item>
-
-
-<item>
-  <title>Episode 6 - Fri Jan 16 2026</title>
-  <description>Top Stories for Fri Jan 16 2026
-Here are the links for the stories:
-Hyperlink List:
-
-https://www.catholicnewsagency.com/news/256561/vatican-prosecutor-steps-aside-as-london-property-trial-appeal-moves-forward
-https://www.catholicnewsagency.com/news/256561/vatican-prosecutor-steps-aside-as-london-property-trial-appeal-moves-forward
-https://zenit.org/2026/01/15/from-mourning-to-mobilization-mexicos-catholic-church-bets-on-a-decade-for-peace/
-https://www.americamagazine.org/vatican/2026/01/15/vatican-completes-official-mosaic-portrait-pope-leo-xiv-papal-basilica-247072
-https://www.archbalt.org/sister-christina-christie-former-anglican-nun-who-led-her-community-into-the-catholic-church-dies-at-94/</description>
-  <pubDate>Fri, 16 Jan 2026 19:30:57 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jY0azFMXHOS8CbvdChVuSjlNTsF6KJf1" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1768591857842</guid>
-</item>
-
-
-<item>
-  <title>Episode 7 - Mon Jan 19 2026</title>
-  <description>Top Stories for Mon Jan 19 2026
-Here are the links for the stories:
-1. https://www.relevantradio.com/2026/01/vatican-proclaims-special-jubilee-year-honoring-saint-francis-of-assisi/
-2. https://news.abs-cbn.com/world/01/18/26/vatican-seals-holy-door-entombs-keys-until-next-jubilee
-3. https://icn.org.uk/articles/pope-encourages-neocatechumenal-way-leaders-to-be-witnesses-of-unity
-4. https://www.catholicworldreport.com/2026/01/18/the-second-vatican-council-a-guiding-star-for-the-church/
-5. https://news.abs-cbn.com/world/01/18/26/vatican-seals-holy-door-entombs-keys-until-next-jubilee</description>
-  <pubDate>Mon, 19 Jan 2026 23:16:27 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W32GHUIKKc41mv237KNl8rjXNXXt-1h2" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1768864587352</guid>
+  <title>Episode 0</title>
+  <description>Base Episode</description>
+  <pubDate>Tue, 28 Oct 2025 20:50:12 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s6k2ueStOWDGeJ-zqyGnsjQxU2TFtaUb" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1761684612252</guid>
 </item>
 
 </channel>
