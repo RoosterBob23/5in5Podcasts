@@ -21,41 +21,11 @@
           <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->        
 <item>
-  <title>Episode 0</title>
+  <title>Episode 0 - Tue Oct 28 2025</title>
   <description>Base Episode</description>
   <pubDate>Tue, 28 Oct 2025 20:50:12 GMT</pubDate>
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s6k2ueStOWDGeJ-zqyGnsjQxU2TFtaUb" length="1234567" type="audio/mpeg" />
   <guid isPermaLink="false">1761684612252</guid>
-</item>
-
-
-<item>
-  <title>Episode NaN - Tue Jan 20 2026</title>
-  <description>Top Stories for Tue Jan 20 2026
-Here are the links for the stories:
-1.  https://www.ewtnnews.com/vaticano-updates-a-franciscan-jubilee-and-a-call-for-peace-2026-01-20/
-2.  https://www.catholicherald.co.uk/vatican-formally-rejects-use-of-title-co-redemptrix-in-new-marian-document/
-3.  https://www.catholicherald.co.uk/pope-leo-xiv-urges-patience-as-vatican-tribunal-begins-new-trial-on-rupnik/
-4.  https://www.catholicherald.co.uk/pope-calls-for-renewed-reverence-and-beauty-in-church-liturgy/
-5.  https://zenit.org/2026/01/19/live-your-spirituality-without-ever-separating-yourselves-from-the-rest-of-the-ecclesial-body-pope-leo-xiv-to-the-neocatechumenal-way/</description>
-  <pubDate>Tue, 20 Jan 2026 19:38:07 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jRYmstunw7lZdnBc5jy2H58pHuSbkTZI" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1768937887177</guid>
-</item>
-
-
-<item>
-  <title>Episode NaN - Tue Jan 20 2026</title>
-  <description>Top Stories for Tue Jan 20 2026
-Here are the links for the stories:
-1.  https://aleteia.org/2026/01/14/the-official-jubilee-of-saint-francis-has-begun/
-2.  https://catholicreview.org/pope-encourages-neocatechumenal-way-to-continue-mission-without-closing-yourselves-off/
-3.  https://www.catholicnewsagency.com/news/256338/bishop-barron-says-ice-should-focus-on-serious-criminals-urges-protesters-to-cease-interfering
-4.  https://www.indcatholicnews.com/news/48858/jerusalem-church-leaders-statement-on-christian-zionism
-5.  https://ugcc.ua/en/data/materials/the-patriarchal-cathedral-of-the-resurrection-of-christ-invites-kyiv-residents-to-a-space-of-warmth-light-and-coworking-107779/</description>
-  <pubDate>Tue, 20 Jan 2026 20:16:29 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=16gd_c2t5K7S_4gH42xRWvTRgBdVHRBAX" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1768940189888</guid>
 </item>
 
 </channel>
