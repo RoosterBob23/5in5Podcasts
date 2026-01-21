@@ -816,14 +816,5 @@ Here are the links for the stories:
   <guid isPermaLink="false">1767693780202</guid>
 </item>
 
-
-<item>
-  <title>Test Episode</title>
-  <description>This is a test description</description>
-  <pubDate>Test Day</pubDate>
-  <enclosure url="www.mypodcast.com" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">Test Now</guid>
-</item>
-
 </channel>
 </rss>
