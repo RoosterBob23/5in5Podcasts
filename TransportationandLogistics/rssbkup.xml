@@ -20,7 +20,7 @@
            <itunes:email>spagliocca@gmail.com</itunes:email>
           </itunes:owner>
           <itunes:category text="Business"/>
-          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/rss.xml" rel="self" type="application/xml" />
+          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->
           
 <item>
