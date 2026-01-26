@@ -9,6 +9,19 @@
       <itunes:category text="Business" />
       <itunes:type>episodic</itunes:type>
       <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
+
+
+      <title>5in5 Catholic News</title>
+      <link>https:https://sites.google.com/view/5in5-podcast/home</link>
+      <description>Welcome to the five in five Catholic News podcast where you will hear the top five stories concerning the Catholic Church in about five minutes</description>
+      <language>en</language>
+      <itunes:author>5in5 Podcast</itunes:author>
+      <itunes:category text="Religion" />
+      <itunes:type>episodic</itunes:type>
+      <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/catholicnews/logo.jpg" />
+
+
+
       
       <item>
       <guid>1234</guid>
