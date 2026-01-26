@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-     <channel>
-          <title>5in5 Transportation and Logistics</title>
-          <link>https:https://sites.google.com/view/5in5-podcast/home</link>
-          <description>Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.</description>
-          <language>en</language>
-          <itunes:type>episodic</itunes:type>
-          <itunes:subtitle>The fastest way to get your headlines</itunes:subtitle>
-          <itunes:author>5in5 Podcast</itunes:author>
-          <itunes:summary>
-          Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.
-          </itunes:summary>
-          <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
-          <itunes:explicit>False</itunes:explicit>
-          <itunes:owner>
-           <itunes:name>Pagliocca</itunes:name>
-           <itunes:email>spagliocca@gmail.com</itunes:email>
-          </itunes:owner>
-          <itunes:category text="Business"/>
-          <atom:link href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/rss.xml" rel="self" type="application/rss+xml" />
-          <!-- Episodes -->
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+      <title>5in5 Transportation and Logistics</title>
+      <link>https:https://sites.google.com/view/5in5-podcast/home</link>
+      <description>Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.</description>
+      <language>en</language>
+      <itunes:author>5in5 Podcast</itunes:author>
+      <itunes:category text="Business" />
+      <itunes:type>episodic</itunes:type>
+      <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
+
+<!-- Episodes -->
           
 <item>
   <title>Episode 1 - Tue Oct 28 2025</title>
@@ -818,11 +807,93 @@ Here are the links for the stories:
 
 
 <item>
-  <title>Test Episode</title>
-  <description>This is a test description</description>
-  <pubDate>Test Day</pubDate>
-  <enclosure url="www.mypodcast.com" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">Test Now</guid>
+  <title>Episode 52 - Wed Jan 21 2026</title>
+  <description>Top Stories for Wed Jan 21 2026
+Here are the links for the stories:
+https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHagfqHwEAAX4B6AFlGf5k48MudX1NS5Fd2rJH8Ct4NMqw3BzeXnX1YtvW9MJhIQHCXNqsdQeugPqZPHYzm68T_TTtQKe5NFIwSMa-WagTJlDjRwe5yTZHwp0PguDEaPB1U0AR5eSGr9uxUF4dxA_pzu2bMbuVFH9HoeCcpy4QkJYJknGZ1IUXvSxlo90GTFJbR8hE1ZGWwReZyzW1EPkV9_zQyf89aKxJo42R86i3EL1KbY1Lr
+https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhzuSDA36ZF-LGInK1fyBvtzeVrSznnhTC3JWAvnyPJn124at41fq4Yz4wAE3ymMz6Y7lsFl4SNLljChjmpkvW7y6gO2Q7cSTynAFH2tM5d09hlJJI5izD3HUpEUdFjm9ovkNxDnbA9OHUMECTy7IHnjGYoW35gtU=
+https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZCCIR20bMcgD2Ql3pzxTF6BApFmHcOBAuEOs6Uf0d3BOpAOS4o8V7NTmf8KpfXjYOuy98v4nhvz1Ms_ppP6HyiXAlkBRoJTNFQtg4OWWWb1U4VtAVnLLsfNOl9mk5vzJSulh2ahtIRdaLyhHCEsim_izb5iwrKRnGZJQ60RS3CgeKaIRd2s834Ot2GvQc
+https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7kRj3qUd4zSH5jBZLYrfJtHtMsBpsW5R_8PgxVIkI15sQy-wxZwBec4lwJyvUok9W6wJ2Rc5qLt8wGFuf_KXNugNUPdzwf9EZtR3VRM5_teJ50qqq_mKnwz006JLJc0Z_WVmTH4_RaM2IPw9CHUngZb3hbf1qReR27oFivtgJvLoAijfLiVBUOWGpLcuA85Q-yPHqlKtYnCAifSuTZFKBA5QnTqeYwJU35fmwK5aj
+https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkDvUI7TnjtaodgdeHZ3CTyjH2BqGnUQCborbzTaZGACsfoPISbajtKlkLdvqZQGQSuLSiv1xkTOkSaof7apRvJfPvtKJSNPG13oe_8pZuJHr6nM2CxklCt6Td_iQ2L3N5ZtHXwjlJrO4EDCyYe13iJAqJZP_Xs4-nvoeB7odKkA21k9khvV1h0AEYQLxxghOyFbSH5JJBpW8pEAMYlw==</description>
+  <pubDate>Wed, 21 Jan 2026 08:31:23 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fhFqHHWw3avYIffPcnxFMv8maY3tm1pc" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1768984283948</guid>
+</item>
+
+
+<item>
+  <title>Episode 53 - Thu Jan 22 2026</title>
+  <description>Top Stories for Thu Jan 22 2026
+Here are the links for the stories:
+`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqnK7qfViiDgc2_PLNMU90rFFuuTwwtfuSID7UNXtH-6bJdRNjKyQ68uja_QYEQkRmvrHKzDPiirRME1JHNoOo-yjsBO9KP9HwCFY6t2kLt_BR1yRpT0GVBuissnBzQ2ed1okbNwUfNCabHSTpUaehM8nAw140rldORNbuOIXVuaGj79Gy7D6QTCZIJ_vLC2qxA1kz3nFJIG5b7FTflEN9`
+`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSZrVirIQDz2Yz4jMN0FFY1O5OgRzS_4cqxbGxoHRgmJKug5kNPPJv7_6OqgNE8QVYVJuAPxBuhF_9JclE5q-jTW1JsTHFgLgPmDzFrM1yNxmEDs2ikihCRwOr4-acjw7R0Nh3QsesUP5eAvn9Euu2IJViSoRx6w`
+`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRlG82aXXVbTqttCRJ-glkLzavyjonD1Gie_ihg1db3yFVC-1kcOxK6TBUY29ro8tDm0AThk79ud_Ju9g9bDa0dqqH4oXo3oj8qezIBq7etVohMBGKjSxunrWDR5iUpHrKKguUB-bp2GN`
+`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRlG82aXXVbTqttCRJ-glkLzavyjonD1Gie_ihg1db3yFVC-1kcOxK6TBUY29ro8tDm0AThk79ud_Ju9g9bDa0dqqH4oXo3oj8qezIBq7etVohMBGKjSxunrWDR5iUpHrKKguUB-bp2GN`
+`https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSZrVirIQDz2Yz4jMN0FFY1O5OgRzS_4cqxbGxoHRgmJKug5kNPPJv7_6OqgNE8QVYVJuAPxBuhF_9JclE5q-jTW1JsTHFgLgPmDzFrM1yNxmEDs2ikihCRwOr4-acjw7R0Nh3QsesUP5eAvn9Euu2IJViSoRx6w`</description>
+  <pubDate>Thu, 22 Jan 2026 08:31:19 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Uh6Scb8hSU2qxhoGi7DDHjPsycRkMm64" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1769070679123</guid>
+</item>
+
+
+<item>
+  <title>Episode 54 - Fri Jan 23 2026</title>
+  <description>Top Stories for Fri Jan 23 2026
+Here are the links for the stories:
+1. https://www.gov.wales/digital-logistics-hub-be-established-pontypool
+2. https://shipsmonthly.com/news/stena-connecta-arrives-in-belfast-harbour/
+3. https://www.logisticsmgmt.com/article/u.s._warehousing_market_hits_221_billion_armstrong_report_finds
+4. https://www.logisticsmgmt.com/article/td_cowen_afs_freight_index_sees_early_recovery_signs_in_truckload_ltl_and
+5. https://blog.atsinc.com/january-freight-market-trends/</description>
+  <pubDate>Fri, 23 Jan 2026 08:31:42 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Fhw9NIOF2aCSEXpi-GFrd7hARG4fhC6I" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1769157102147</guid>
+</item>
+
+
+<item>
+  <title>Episode 55 - Sat Jan 24 2026</title>
+  <description>Top Stories for Sat Jan 24 2026
+Here are the links for the stories:
+Here are the hyperlinks for more information.
+1. https://www.supplychain247.com/article/echo_global_logistics_acquires_its_logistics
+2. https://www.supplychain247.com/article/north_carolina_puts_16.3m_into_freight_rail_updates_across_state
+3. https://www.supplychain247.com/article/survey_2026_shipping_outlook_is_confident_but_cautious
+4. https://www.freightwaves.com/news/major-container-carrier-reverses-course-on-red-sea-return
+5. https://www.truckingdive.com/news/jb-hunt-q4-intermodal-operating-income-rises/705445/</description>
+  <pubDate>Sat, 24 Jan 2026 08:31:16 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PSHXydzhB2AYcvb1qHQR0k2TZzlwtqG8" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1769243476758</guid>
+</item>
+
+
+<item>
+  <title>Episode 56 - Sun Jan 25 2026</title>
+  <description>Top Stories for Sun Jan 25 2026
+Here are the links for the stories:
+1. https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuYCUhdMFeNf96f8R585xKsEcpLjSTQA0yVSprYrl0kWalf4pdsRYbCp_y3tOAeoaO5UgJff0bSS8oJTJ7iCMOLYhtuojGv-m6DZmkX2N4lI8l23wwCs3CeNQYHBKlDnKrBo9D03lzhymESzoDp9PPEQ-2EYxeHvffZz22ePmmAfG8c6SebIFYpryf3QvN23LbZIqzdmr_Mllw
+2. https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPjcMSBHCBNDDYHsKz2PNFEQntZsPeLMjifoYPYyNrhfpPZW5QF34yrULvZ313dKc0Bg5PApv9GB0FBnlEwSLuWsBYDUGZmyov_XWukzo80WjS7AU6FduJjv4csypWMolymozhi_0Yt7Orj7nXtdHFVbQEF1_qZ3Le2ls-qz78Oe7SuNN1ecd3qNfyjPFz6KftpjQKv9PvdXDkajZMwps=
+3. https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxvlhGQDMuWvMgQE0WK51IiwvMGvIsA-n1YpOMC5VJSjurUXHIfnnZ0XndNNTfHBkOspN1quN8IiEQ001jaeIZ0RTqZAec4Ymc3e8odgxUMEcseCyDQUgZBRNWRhXA32PpV-jPHcPjzq1fNZdV60TZH03KEJXSmCc=
+4. https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_2LIhGhVbagR7a5TRm6NczioyaQDrEFFf6ZvCdqdgsBq7lRr2U6986MqFOPq6X57I5lRaq3bR5ylqT4Cx9tmNtZyb4onejcUB7tT7VzcNBALdjJj3aqSRTQ86yQGqYu5srJFfo41y0toc9bWBVdYrecSMsIgR49Z16wMef8c9trDUTLalkCo08eOBnB9KiD2ZWnsYjFeevLdmAqesrwQlDJT-Go3psWeW66vIoA==
+5. https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuxabcl4ddgNFr6NlE3wkf3pq8OMDKPXpX00mxUDcIMemT1H6F0VdeSCiyIuXBCecKwdJvo9wbdAkIDZV7zY3_vc6P0BTTFpWq7edL5WWXOSSCbse1m-NAmt5GmWINB7TEcHBdNqEqpFjGK7IUy-K5UjyfV5RtVGzaKLrTRIOTkFFCFFlUNfDzVfdzZNp97S_DtQ7vABKVZZiIBiyXPHdsYeEEWEcBkV0XUVmNay7mSRub5nOjkpwbIw==</description>
+  <pubDate>Sun, 25 Jan 2026 08:31:14 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Euw7pXLI8uvppKRuOuTquflUyw-MhneN" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1769329874148</guid>
+</item>
+
+
+<item>
+  <title>Episode 57 - Mon Jan 26 2026</title>
+  <description>Top Stories for Mon Jan 26 2026
+Here are the links for the stories:
+https://www.penndot.pa.gov/NewsRoom/Pages/NewsDetails.aspx?postid=744
+https://www.alanaid.org/news/january-25-2026-winter-weather-alert-alan-update/
+https://aircargonews.net/latest-news/defence-is-reshaping-global-logistics/
+https://www.govinfo.gov/content/pkg/FR-2026-01-26/html/FR-2026-01-26.htm
+https://www.media-outreach.com/dachser-highlights-2026-air-and-sea-freight-market-outlook-and-supply-chain-optimization-301138/</description>
+  <pubDate>Mon, 26 Jan 2026 08:31:43 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t1n0LTQNc0v1lcHv6jeokn8AK11iGJYI" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1769416303918</guid>
 </item>
 
 </channel>
