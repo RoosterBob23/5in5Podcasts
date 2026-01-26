@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-    <channel>
-      <title>5in5 Transportation and Logistics</title>
-      <link>https:https://sites.google.com/view/5in5-podcast/home</link>
-      <description>Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.</description>
-      <language>en</language>
-      <itunes:author>5in5 Podcast</itunes:author>
-      <itunes:category text="Business" />
-      <itunes:type>episodic</itunes:type>
-      <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
-
-<!-- Episodes -->
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+     <channel>
+          <title>5in5 Transportation and Logistics</title>
+          <link>https:https://sites.google.com/view/5in5-podcast/home</link>
+          <description>Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.</description>
+          <language>en</language>
+          <itunes:type>episodic</itunes:type>
+          <itunes:subtitle>The fastest way to get your headlines</itunes:subtitle>
+          <itunes:author>5in5 Podcast</itunes:author>
+          <itunes:summary>
+          Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.
+          </itunes:summary>
+          <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
+          <itunes:explicit>False</itunes:explicit>
+          <itunes:owner>
+           <itunes:name>Pagliocca</itunes:name>
+           <itunes:email>spagliocca@gmail.com</itunes:email>
+          </itunes:owner>
+          <itunes:category text="Business"/>
+          <atom:link href="https://roosterbob23.github.io/5in5Podcasts/TransportationandLogistics/rss.xml" rel="self" type="application/rss+xml" />
+          <!-- Episodes -->
           
 <item>
   <title>Episode 1 - Tue Oct 28 2025</title>
