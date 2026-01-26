@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-      <title>Serial</title>
-      <link>https://serialpodcast.org</link>
-      <description>Serial is a new podcast from the creators of This American Life,
-      hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole
-      season. The show follows the plot and characters wherever they lead, through many surprising
-      twists and turns. Sarah won't know what happens at the end of the story until she gets there, not
-      long before you get there with her. Each week she'll bring you the latest chapter, so it's
-      important to listen in, starting with Episode 1. New episodes are released on Thursday
-      mornings. Serial, like This American Life, is a production of WBEZ Chicago.
-      </description>
+      <title>5in5 Transportation and Logistics</title>
+      <link>https:https://sites.google.com/view/5in5-podcast/home</link>
+      <description>Welcome to the 5in5 Transportation and Logistics podcast where you will get the top five headlines in five minutes or less.</description>
       <language>en</language>
-      <itunes:author>This American Life</itunes:author>
-      <itunes:category text="News & Politics" />
+      <itunes:author>5in5 Podcast</itunes:author>
+      <itunes:category text="Business" />
       <itunes:type>episodic</itunes:type>
-      <itunes:image
-      href="https://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itunes-logo.png" />
-          <!-- Episodes -->
+      <itunes:image href="https://raw.githubusercontent.com/roosterbob23/5in5Podcasts/main/TransportationandLogistics/logo.jpg" />
+
+<!-- Episodes -->
           
 <item>
   <title>Episode 1 - Tue Oct 28 2025</title>
