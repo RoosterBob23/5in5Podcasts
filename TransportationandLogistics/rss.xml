@@ -19,7 +19,7 @@
            <itunes:name>Pagliocca</itunes:name>
            <itunes:email>spagliocca@gmail.com</itunes:email>
           </itunes:owner>
-          <itunes:category text="Business"/><itunes:category text="Management"/>
+          <itunes:category text="Business"/>
           <atom:link href="https://roosterbob23.github.io/5in5Podcasts/TransportationandLogistics/rss.xml" rel="self" type="application/rss+xml" />
           <!-- Episodes -->
           
